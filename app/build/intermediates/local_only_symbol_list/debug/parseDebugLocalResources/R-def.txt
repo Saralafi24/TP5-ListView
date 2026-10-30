@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id btnModifier
+id etContact
+id lvContacts
+layout activity_main
+string app_name
+string btn_modifier
+string hint_contact
+string msg_aucune_selection
+string msg_contact_modifie
+string msg_nom_vide
